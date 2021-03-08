@@ -4,12 +4,12 @@
 #
 Name     : R-plot3D
 Version  : 1.3
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/plot3D_1.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/plot3D_1.3.tar.gz
 Summary  : Plotting Multi-Dimensional Data
 Group    : Development/Tools
-License  : GPL(>=-3.0)
+License  : GPL-3.0
 Requires: R-misc3d
 BuildRequires : R-misc3d
 BuildRequires : buildreq-R
@@ -27,10 +27,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1615227620
+export SOURCE_DATE_EPOCH=1615228814
 
 %install
-export SOURCE_DATE_EPOCH=1615227620
+export SOURCE_DATE_EPOCH=1615228814
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
