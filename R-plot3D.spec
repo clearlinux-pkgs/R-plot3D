@@ -4,7 +4,7 @@
 #
 Name     : R-plot3D
 Version  : 1.3
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/plot3D_1.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/plot3D_1.3.tar.gz
 Summary  : Plotting Multi-Dimensional Data
