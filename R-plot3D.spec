@@ -7,7 +7,7 @@
 #
 Name     : R-plot3D
 Version  : 1.4.1
-Release  : 21
+Release  : 22
 URL      : https://cran.r-project.org/src/contrib/plot3D_1.4.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/plot3D_1.4.1.tar.gz
 Summary  : Plotting Multi-Dimensional Data
